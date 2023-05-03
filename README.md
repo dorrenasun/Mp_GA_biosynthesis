@@ -1,6 +1,7 @@
 # Depository for scripts used in the analysis
 
 This is a depository for files related to the manuscript titled "Biosynthesis of gibberellin-related compound(s) modulates far-red light responses in the liverwort *Marchantia polymorpha*", authored by:
+
 Rui Sun (孙 芮)<sup>1</sup>, Maiko Okabe (岡部 麻衣子)<sup>1</sup>, Sho Miyazaki (宮崎 翔)<sup>2</sup>, Toshiaki Ishida (石田 俊晃)<sup>3</sup>, Kiyoshi Mashiguchi (増口 潔)<sup>3</sup>, Keisuke Inoue (井上 佳祐)<sup>1</sup>, Yoshihiro Yoshitake (吉竹 良洋)<sup>1</sup>, Shohei Yamaoka (山岡尚平)<sup>1</sup>, Ryuichi Nishihama (西浜 竜一)<sup>1,4</sup>, Hiroshi Kawaide (川出 洋)<sup>5</sup>, Masatoshi Nakajima (中嶋 正敏)<sup>6</sup>, Shinjiro Yamaguchi (山口 信次郎)<sup>6</sup>, Takayuki Kohchi (河内 孝之)<sup>1</sup>
 
 <sup>1</sup> Graduate School of Biostudies, Kyoto University, Kyoto 606-8502, Japan.

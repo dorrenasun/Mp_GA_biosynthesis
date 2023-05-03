@@ -1,0 +1,411 @@
+﻿pathway,module,name,MP_GENES,ver6,ver3.1,To Find,Note,Based_on,Ref
+Terpenoid_backbone,MVA pathway,ACCT,0,Mp5g14630,Mapoly0032s0155,,,,
+Terpenoid_backbone,MVA pathway,ACCT,MpACT2,Mp5g23030,Mapoly0010s0153,,,,
+Terpenoid_backbone,MVA pathway,ACCT,0,Mp2g23060,Mapoly0072s0025,,,,
+Terpenoid_backbone,MVA pathway,HMGS,MpHMGS,Mp4g22640,Mapoly0020s0034,,,,
+Terpenoid_backbone,MVA pathway,HMGR,MpHMG,Mp2g07980,Mapoly0015s0085,,,,
+Terpenoid_backbone,MVA pathway,MK,MpMK,Mp4g13410,Mapoly0214s0007,,,,
+Terpenoid_backbone,MVA pathway,PMK,MpPMK,Mp8g14400,Mapoly0108s0066,,,,
+Terpenoid_backbone,MVA pathway,MVD,MpMVD,Mp3g01340,Mapoly0007s0128,,,,
+Terpenoid_backbone,MEP pathway,DXS,MpDXS1,Mp2g09130,Mapoly0015s0196,,,,
+Terpenoid_backbone,MEP pathway,DXS,MpDXS2,Mp4g14720,Mapoly0070s0009,,,,
+Terpenoid_backbone,MEP pathway,DXR,MpDXR1,Mp6g04420,Mapoly0034s0078,,,,
+Terpenoid_backbone,MEP pathway,DXR,MpDXR2,Mp8g01240,Mapoly0064s0074,,,,
+Terpenoid_backbone,MEP pathway,MCT,MpMCT,Mp3g06780,Mapoly0006s0146,,,,
+Terpenoid_backbone,MEP pathway,CMK,MpCMK,Mp1g16290,Mapoly0033s0031,,,,
+Terpenoid_backbone,MEP pathway,MDS,MpMDS,Mp1g29200,Mapoly0107s0035,,,,
+Terpenoid_backbone,MEP pathway,HDS,MpHDS,Mp5g09870,Mapoly0048s0084,,,,
+Terpenoid_backbone,MEP pathway,HDR,MpHDR,Mp5g09880,Mapoly0048s0083,,,,
+Terpenoid_backbone,,IDI,MpIDI1,Mp4g00610,Mapoly0066s0080,,IPP to DMAPP,,
+Terpenoid_backbone,,FDPS,MpIDS1,Mp3g22530,Mapoly0024s0031,,FDPS,,
+Terpenoid_backbone,,GGPS,MpIDS2,Mp2g13280,Mapoly0026s0044,,GGPS,,
+Terpenoid_backbone,,GGPS,MpIDS3,Mp5g21200,Mapoly0058s0102,,GGPS,,
+Terpenoid_backbone,,SPS,MpIDS4,Mp5g20580,Mapoly0058s0036,,"SPS,sds",,
+Terpenoid_backbone,,GPS,MpIDS5,Mp1g06110,Mapoly0043s0003,,GPS,,
+Cytokinin,,MpIPT1,MpIPT1,Mp1g16480,Mapoly0033s0012,,tRNA-IPT,,
+Cytokinin,,MpIPT2,MpIPT2,Mp8g02960,Mapoly0012s0089,,tRNA-IPT,,
+Cytokinin,,MpLOG,MpLOG,Mp1g00270,Mapoly0103s0059,,,,
+Cytokinin,,MpCKX1,MpCKX1,Mp5g03090,Mapoly0124s0014,,,,
+Cytokinin,,MpCKX2,MpCKX2,Mp5g10910,Mapoly0093s0012,,,,
+ABA,,MpHYP,MpHYP,Mp5g18910,Mapoly0073s0051,,,,
+ABA,ABA metabolism,ZEP,MpABA1,Mp2g00670,Mapoly0028s0084,,,,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+ABA,ABA metabolism,ABA4,MpABA4,Mp5g19490,Mapoly0134s0007,,,,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+ABA,ABA metabolism,NCED,MpNCED,Mp2g07800,Mapoly0015s0066,,,Phylogenetic homology,Wang et al. Nature communications 10.1 (2019): 1-9.
+ABA,ABA metabolism,NCED,MpNCED-like,Mp3g20700,Mapoly0149s0036,,,Phylogenetic homology,Wang et al. Nature communications 10.1 (2019): 1-9.
+ABA,ABA metabolism,AAO,MpAO,Mp8g06370,Mapoly0013s0153,,,,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+ABA,ABA metabolism,CYP707,MpCYP707A85,Mp2g25940,Mapoly0025s0085,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+ABA,ABA metabolism,CYP707,MpCYP707D1,Mp7g11110,Mapoly0003s0125,,,Phylogenetic similarity,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+ABA,ABA transport,ABCG25,MpABCG10,Mp6g05900,Mapoly0097s0054,,,,
+ABA,ABA transport,ABCG25,MpABCG11,Mp6g05910,Mapoly0097s0053,,,,
+ABA,ABA transport,ABCG31,MpABCG28,Mp2g03890,Mapoly0031s0045,,,,
+ABA,ABA transport,ABCG31,MpABCG29,Mp2g21340,Mapoly0040s0080,,,,
+ABA,ABA transport,ABCG40,MpABCG37,Mp2g07030,Mapoly0021s0156,,,,
+ABA,ABA signaling,PYL,MpPYL1,Mp8g17460,Mapoly0030s0080,,,,
+ABA,ABA signaling,PYL,MpPYL2,Mp2g18190,Mapoly0313s0001,,,,
+ABA,ABA signaling,PYL,MpPYL3,-,Mapoly0508s0001,,,,
+ABA,ABA signaling,PYL,MpPYL4,Mp8g18070,Mapoly0030s0140,,,,
+ABA,ABA signaling,PYL,MpPYL5,Mp6g17820,Mapoly0145s0004,,,,
+ABA,ABA signaling,PP2C,MpABI1V,MpVg00730,MapolyY_A0044,,,,
+ABA,ABA signaling,PP2C,MpABI1U,MpUg00130,Mapoly0017s0024,,,,
+ABA,ABA signaling,SnRK2,MpSNRK2A,Mp1g24460,Mapoly0061s0075,,,,
+ABA,ABA signaling,SnRK2,MpSNRK2B,Mp4g11110,Mapoly0011s0096,,,,
+ABA,ABA signaling,ABI3,MpABI3A,Mp5g08310,Mapoly0086s0035,,,,
+ABA,ABA signaling,AREB,MpABI5A,Mp2g23600,Mapoly0069s0009,,,,
+ABA,ABA signaling,AREB,MpABI5B, Mp2g22820,Mapoly0072s0050,,,,
+ABA,LEA-like,LEA-like,MpLEA-like2,Mp1g01170,Mapoly0029s0129,,,,
+ABA,LEA-like,LEA-like,MpLEA-like3,Mp1g03850,Mapoly0005s0222,,,,
+ABA,LEA-like,LEA-like,MpLEA-like4,Mp1g23200,Mapoly0065s0058,,,,
+ABA,LEA-like,LEA-like,MpLEA-like5,Mp1g25220,Mapoly0061s0003,,,,
+ABA,LEA-like,LEA-like,MpLEA-like6,Mp1g26580,Mapoly0002s0220,,,,
+ABA,LEA-like,LEA-like,MpLEA-like7,Mp2g02010,Mapoly0130s0009,,,,
+ABA,LEA-like,LEA-like,MpLEA-like8,Mp2g12370,Mapoly0026s0134,,,,
+ABA,LEA-like,LEA-like,MpLEAL7,Mp2g26410,Mapoly0025s0042,,,,
+ABA,LEA-like,LEA-like,MpLEA-like9,Mp2g26450,Mapoly0025s0039,,,,
+ABA,LEA-like,LEA-like,MpLEA-like10,Mp2g26460,Mapoly0025s0038,,,,
+ABA,LEA-like,LEA-like,MpLEA-like11,Mp3g02160,Mapoly0007s0205,,,,
+ABA,LEA-like,LEA-like,MpLEA-like12,Mp3g04820,Mapoly0022s0047,,,,
+ABA,LEA-like,LEA-like,MpLEA-like13,Mp3g06270,Mapoly0006s0097,,,,
+ABA,LEA-like,LEA-like,MpLEA-like14,Mp3g08260,Mapoly0006s0300,,,,
+ABA,LEA-like,LEA-like,MpLEA-like15,Mp3g18220,Mapoly0140s0019,,,,
+ABA,LEA-like,LEA-like,MpLEA-like16,Mp3g23740,Mapoly0121s0048,,,,
+ABA,LEA-like,LEA-like,MpLEA-like17,Mp3g24750,Mapoly0183s0007,,,,
+ABA,LEA-like,LEA-like,MpLEA-like18,Mp4g05730,Mapoly0087s0018,,,,
+ABA,LEA-like,LEA-like,MpLEA-like19,Mp4g05750,Mapoly0087s0016,,,,
+ABA,LEA-like,LEA-like,MpLEAL5,Mp4g05760,Mapoly0087s0015,,,,
+ABA,LEA-like,LEA-like,MpDHN2,Mp4g06390,Mapoly0114s0014,,,,
+ABA,LEA-like,LEA-like,MpLEA-like20,Mp4g06440,Mapoly0114s0002,,,,
+ABA,LEA-like,LEA-like,MpLEAL1,Mp4g09300,Mapoly0112s0030,,,,
+ABA,LEA-like,LEA-like,MpLEA-like21,Mp4g13720,Mapoly0202s0017,,,,
+ABA,LEA-like,LEA-like,MpLEA-like22,Mp4g14800,Mapoly0119s0002,,,,
+ABA,LEA-like,LEA-like,MpLEA-like23,Mp4g14810,Mapoly0119s0007,,,,
+ABA,LEA-like,LEA-like,MpLEA-like24,Mp4g14830,Mapoly0965s0002,,,,
+ABA,LEA-like,LEA-like,MpLEA-like25,Mp4g14840,Mapoly0119s0005,,,,
+ABA,LEA-like,LEA-like,MpLEAL2,Mp4g14860,Mapoly0119s0008,,,,
+ABA,LEA-like,LEA-like,MpLEA-like26,Mp4g14870,Mapoly0119s0009,,,,
+ABA,LEA-like,LEA-like,MpLEA-like27,Mp4g14880,Mapoly0119s0010,,,,
+ABA,LEA-like,LEA-like,MpLEA-like28,Mp4g17570,Mapoly0041s0039,,,,
+ABA,LEA-like,LEA-like,MpLEA-like29,Mp4g17810,Mapoly0041s0062,,,,
+ABA,LEA-like,LEA-like,MpLEAL6,Mp5g05120,Mapoly0027s0114,,,,
+ABA,LEA-like,LEA-like,MpLEA-like30,Mp5g09040,Mapoly0095s0054,,,,
+ABA,LEA-like,LEA-like,MpLEA-like31,Mp5g11170,Mapoly0093s0039,,,,
+ABA,LEA-like,LEA-like,MpLEA-like32,Mp5g18480,Mapoly0073s0092,,,,
+ABA,LEA-like,LEA-like,MpLEA-like33,Mp5g22700,Mapoly0010s0186,,,,
+ABA,LEA-like,LEA-like,MpLEA1,Mp5g23710,Mapoly0010s0085,,,,
+ABA,LEA-like,LEA-like,MpLEAL3,Mp6g02960,Mapoly0035s0082,,,,
+ABA,LEA-like,LEA-like,MpLEA-like34,Mp6g02970,Mapoly0035s0083,,,,
+ABA,LEA-like,LEA-like,MpLEA-like35,Mp6g02980,Mapoly0035s0084,,,,
+ABA,LEA-like,LEA-like,MpLEA-like36,Mp6g02990,Mapoly0035s0085,,,,
+ABA,LEA-like,LEA-like,MpLEA-like37,Mp6g03000,-,,,,
+ABA,LEA-like,LEA-like,MpLEA-like38,Mp6g03010,Mapoly1199s0001,,,,
+ABA,LEA-like,LEA-like,MpLEA-like39,Mp6g03050,Mapoly1288s0001,,,,
+ABA,LEA-like,LEA-like,MpLEA-like40,Mp6g03060,Mapoly0035s0087,,,,
+ABA,LEA-like,LEA-like,MpLEA-like41,Mp6g03070,Mapoly0035s0086,,,,
+ABA,LEA-like,LEA-like,MpLEA-like42,Mp6g03090,Mapoly0035s0089,,,,
+ABA,LEA-like,LEA-like,MpLEA-like43,Mp6g03100,Mapoly0035s0090,,,,
+ABA,LEA-like,LEA-like,MpLEA-like44,Mp6g03110,Mapoly0035s0091,,,,
+ABA,LEA-like,LEA-like,MpLEA-like45,Mp6g03120,Mapoly0035s0092,,,,
+ABA,LEA-like,LEA-like,MpLEA-like46,Mp6g03130,Mapoly0035s0093,,,,
+ABA,LEA-like,LEA-like,MpLEA-like47,Mp6g05470,Mapoly2488s0001,,,,
+ABA,LEA-like,LEA-like,MpDHN1,Mp6g07540,Mapoly0053s0068,,,,
+ABA,LEA-like,LEA-like,MpLEA-like48,Mp6g07560,Mapoly0053s0070,,,,
+ABA,LEA-like,LEA-like,MpLEAL4,Mp6g11090,Mapoly0016s0148,,,,
+ABA,LEA-like,LEA-like,MpLEA-like49,Mp6g11340,Mapoly0016s0173,,,,
+ABA,LEA-like,LEA-like,MpLEA-like50,Mp6g12730,Mapoly0059s0074,,,,
+ABA,LEA-like,LEA-like,MpLEA-like51,Mp6g13340,Mapoly0059s0016,,,,
+ABA,LEA-like,LEA-like,MpLEA-like52,Mp6g13350,Mapoly0059s0015,,,,
+ABA,LEA-like,LEA-like,MpLEA-like53,Mp6g13380,Mapoly0059s0012,,,,
+ABA,LEA-like,LEA-like,MpLEA2,Mp6g13390,Mapoly0059s0011,,,,
+ABA,LEA-like,LEA-like,MpLEA-like54,Mp6g19740,Mapoly0045s0089,,,,
+ABA,LEA-like,LEA-like,MpLEA-like55,Mp7g02660,Mapoly0088s0022,,,,
+ABA,LEA-like,LEA-like,MpLEA-like56,Mp7g12850,Mapoly0003s0293,,,,
+ABA,LEA-like,LEA-like,MpLEA-like57,Mp7g15290,Mapoly0009s0213,,,,
+ABA,LEA-like,LEA-like,MpLEA-like58,Mp7g19340,Mapoly0067s0044,,,,
+ABA,LEA-like,LEA-like,MpLEA-like59,Mp8g07630,Mapoly0013s0032,,,,
+ABA,LEA-like,LEA-like,MpLEA-like60,Mp8g13540,Mapoly0935s0001,,,,
+ABA,LEA-like,LEA-like,MpLEA-like61,Mp8g13550,Mapoly1171s0002,,,,Ghosh et al. Physiologia plantarum 156.4 (2016): 407-420.
+ABA,LEA-like,LEA-like,MpLEA-like62,Mp8g15940,Mapoly0079s0020,,,,Ghosh et al. Physiologia plantarum 156.4 (2016): 407-420.
+Terpenoid,,MpTPS1,MpTPS1,Mp6g05430,Mapoly0167s0025,,,,
+Terpenoid,,MpTPS2,MpTPS2,Mp2g24640,Mapoly0207s0001,,,,
+Terpenoid,,MpTPS5,MpTPS5,Mp7g00020,Mapoly0046s0122,,,,
+Terpenoid,,MpTPS6,MpTPS6,Mp3g13150,Mapoly0050s0107,,,,
+Terpenoid,,MpTPS7,MpTPS7,Mp2g24630,Mapoly0221s0001,,,,
+GA,,MpCPS,MpCPS(TPS3),Mp2g07200,Mapoly0015s0008,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA,,MpKS(TPS4),MpKS(TPS4),Mp6g05950,Mapoly0097s0049,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA,,MpKOL1,MpKOL1,Mp3g18320,Mapoly0140s0010,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA,,MpKOL2,MpKOL2,Mp2g01950,Mapoly0130s0003,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA,,MpKOL3,MpKOL3,Mp2g01940,Mapoly0130s0002,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA,,MpKAOL1,MpKAOL1,Mp4g23680,Mapoly0020s0131,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA,,MpKAOL3,MpKAOL3,Mp2g10420,Mapoly0023s0011,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA_more,,MpKAOL2,MpKAOL2,Mp1g25410,Mapoly0002s0331,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+GA_more,,MpSABATH2,MpSABATH2,Mp7g11980,Mapoly0003s0211,,,,
+Flavonoid,,MpMYB02,MpR2R3-MYB2|MpMYB02,Mp3g07510,Mapoly0006s0226,,Master regulator,"Albert et al., New Phyt. (2018); Kubo et al., JPL (2018)",
+Flavonoid,,MpMYB14,MpR2R3-MYB14,Mp5g19050,Mapoly0073s0038,,Master regulator,"Albert et al., New Phyt. (2018); Kubo et al., JPL (2018)",
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL10,Mp1g05190,Mapoly0005s0089,,,Gene cluster & similarity,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL9,Mp1g05220,Mapoly0005s0086,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL1,Mp1g10150,Mapoly0014s0211,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL-like1,Mp3g18570,Mapoly0142s0036,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL2,Mp4g03590,Mapoly0044s0114,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL8,Mp4g10060,Mapoly0132s0049,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL7,Mp4g14110,Mapoly0070s0071,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL6,Mp4g14140,Mapoly0070s0068,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL-like2,Mp4g14160,Mapoly0070s0066,,,Gene cluster & similarity,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL5,-,Mapoly0070s0065,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL4,Mp4g14210,Mapoly0070s0061,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,PAL,MpPAL3,Mp7g14880,Mapoly0009s0173,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Phenylpropanoid pathway,C4H,MpC4H1,Mp6g00020,Mapoly0163s0018,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+Flavonoid,Phenylpropanoid pathway,C4H,MpC4H2,Mp8g05070,Mapoly0081s0008,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+Flavonoid,Phenylpropanoid pathway,C4H,MpC4H3,Mp8g05080,Mapoly0081s0009,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15"
+Flavonoid,Phenylpropanoid pathway,4CL,MpACOS2,Mp5g01200,Mapoly0197s0014,,,Phylogenetic homology,"de Vries et al., 2021"
+Flavonoid,Flavone/aurone biosynthesis,CHS,MpPKS/CHS2|MpPKS7,Mp2g07060,Mapoly0021s0159,,,Experimental evidence,Zhu et al. New Phyt. (2022)
+Flavonoid,Flavone/aurone biosynthesis,CHS,MpPKS/CHS4|MpPKS8,Mp2g20910,Mapoly0040s0121,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Flavone/aurone biosynthesis,CHI,MpCHI,Mp6g05290,Mapoly0167s0012,,,Mutant phenotype,"Berland et al., PNAS (2019)"
+Flavonoid,Flavone/aurone biosynthesis,CHIL,MpCHIL2,Mp5g01410,Mapoly0175s0004,,,Mutant phenotype,"Berland et al., PNAS (2019)"
+Flavonoid,Flavone/aurone biosynthesis,FNR,MpF3H|MpDOXC4,Mp1g26540,Mapoly0002s0224,,,Phylogenetic homology,"Bowman, Kohchi, Yamato, et al., Cell 171(2):287-304.e15; Li et al., Plant Phys. (2020)"
+Flavonoid,Flavone/aurone biosynthesis,MpAUS,MpAUS|MpPPO5,Mp2g05850,Mapoly0021s0041,,,Mutant phenotype,"Berland et al., PNAS (2019)"
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS20|MpPKS1,Mp7g14890,Mapoly0009s0174,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS21|MpPKS2,Mp7g14930,Mapoly0009s0178,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS22|MpPKS3,Mp7g14940,Mapoly0009s0179,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS23|MpPKS4,Mp7g14960,Mapoly0009s0180,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS18|MpPKS9,Mp4g18370,Mapoly0041s0118,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS8|MpPKS10|STCS1B,Mp4g03580,Mapoly0044s0115,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS17|MpPKS12|MpSTCS1D,Mp4g14450,Mapoly0070s0036,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS16|MpPKS13|MpSTCS1D,Mp4g14220,Mapoly0070s0060,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS15|MpPKS14|MpSTCS1E,Mp4g14200,Mapoly0070s0062,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS14|MpPKS15|MpSTCS1F,Mp4g14190,Mapoly0070s0063,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS13|MpPKS16,Mp4g14180,Mapoly0070s0064,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS12|MpPKS17,Mp4g14150,Mapoly0070s0067,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS11|MpPKS18,Mp4g14120,Mapoly0070s0070,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS10|MpPKS19,Mp4g14100,Mapoly0070s0072,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS7|MpPKS20,Mp2g22780,Mapoly0072s0054,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS6|MpPKS21|MpSTCS1G,Mp2g22700,Mapoly0072s0061,,,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,STCS1,MpPKS/CHS5|MpPKS22,Mp2g22690,Mapoly0072s0062,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKS,MpPKS/CHS3||MpPKS11,Mp2g19480,Mapoly0055s0104,,No function as STCS1,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKS,MpPKS/CHS1|MpPKS5,Mp1g11030,Mapoly0014s0122,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKS,MpPKS/CHS19|MpPKS6,Mp4g23190,Mapoly0020s0082,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKS,MpPKS/CHS9|MpPKS23,Mp4g05310,Mapoly0087s0058,,Fragment,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKS,MpPKS/CHS24|MpPKS25,Mp8g18680,Mapoly0858s0001,,Fragment,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR1,Mp6g13190,Mapoly0059s0030,,AKR13D clade,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR2,Mp5g16990,Mapoly0117s0007,,AKR13D clade,Enzymatic assay,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR3,Mp7g09820,Mapoly0003s0002,,AKR4 clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR4,Mp7g09850,Mapoly0003s0005,,AKR4 clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR5,Mp3g15120,Mapoly0004s0160,,AKR4 clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR6,Mp3g02820,Mapoly0007s0270,,,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR7,Mp6g14180,Mapoly0047s0072,,AKR13D clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR8,Mp6g14200,Mapoly0047s0074,,AKR13D clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR9,Mp5g19610,Mapoly0134s0019,,AKR13D clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR10,Mp2g02950,Mapoly0075s0056,,AKR13D clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR11,Mp5g08570,Mapoly0086s0062,,AKR4 clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR12 ,Mp7g15690,Mapoly0111s0050,,AKR1/2/3/5 clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR13,Mp1g02640,Mapoly0113s0012,,AKR1/2/3/5 clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lunularic acid/marchantin,PKR,MpPKR14,Mp8g18990,Mapoly0131s0005,,AKR13D clade,Phylogenetic homology,Zhu et al. New Phyt. (2022)
+Flavonoid,Lignin monomer,HCT,,Mp1g03460,Mapoly0005s0261,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp1g22310,Mapoly0001s0569,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp1g28940,Mapoly0107s0010,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp1g28950,Mapoly0107s0011,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp2g07560,Mapoly0015s0042,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp2g21960,Mapoly0040s0019,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp3g01570,Mapoly0007s0149,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp4g10680,Mapoly0011s0054,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp5g01960,Mapoly0161s0008,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp5g03000,Mapoly0124s0023,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp5g06060,Mapoly0027s0022,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp5g06070,Mapoly0027s0021,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,MpDFR-like5,Mp5g08930,Mapoly0095s0065,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,MpDFR-like18,Mp5g10260,Mapoly0048s0047,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp5g23180,Mapoly0010s0138,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp5g23190,Mapoly0010s0137,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp6g19350,Mapoly0045s0128,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp6g19980,Mapoly0045s0065,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp7g02110,Mapoly0088s0075,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp7g11870,Mapoly0003s0198,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,MpHCT,Mp7g12690,Mapoly0003s0277,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp8g02840,Mapoly0012s0077,,KEGG:K13065,,
+Flavonoid,Lignin monomer,HCT,,Mp8g10610,Mapoly0008s0162,,KEGG:K13065,,
+Flavonoid,Lignin monomer,C3H,MpC3H|CYP98A,Mp3g11100,Mapoly0037s0087,,,,
+Flavonoid,Lignin monomer,CSE,,Mp3g06320,Mapoly0006s0102,,,,
+Flavonoid,Lignin monomer,CSE,,Mp5g08770,Mapoly0086s0084,,,,
+Flavonoid,Lignin monomer,CSE,,Mp5g13540,Mapoly0032s0047,,,,
+Flavonoid,Lignin monomer,CSE,,Mp5g23560,Mapoly0010s0100,,,,
+Flavonoid,Lignin monomer,CCR,MpDFR-like5,Mp2g05680,Mapoly0021s0024,,,,
+Flavonoid,Lignin monomer,CCR,MpDFR-like18,Mp8g08700,Mapoly0063s0049,,,,
+Flavonoid,Lignin monomer,CAD,,Mp3g16070,Mapoly0004s0064,,,,
+Flavonoid,Lignin monomer,CAD,,Mp3g16080,Mapoly0004s0063,,,,
+Flavonoid,Lignin monomer,COMT,MpOMT2,Mp1g25380,Mapoly0002s0334,,MpOMT2,,
+Flavonoid,Lignin monomer,COMT,MpOMT3,Mp1g28130,Mapoly0002s0065,,MpOMT3,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT4,Mp1g28150,Mapoly0002s0063,,MpOMT4,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT5,Mp2g07360,Mapoly0337s0001,,MpOMT5,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT6,Mp2g07370,Mapoly0015s0023,,MpOMT6,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT7,Mp2g07380,Mapoly0015s0025,,MpOMT7,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT8,Mp2g07390,Mapoly0015s0026,,MpOMT8,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT9,Mp2g09790,Mapoly0129s0005,,MpOMT9,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT10,Mp2g09800,Mapoly0129s0006,,MpOMT10,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT11,Mp2g19610,Mapoly0055s0090,,MpOMT11,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT12,Mp2g19620,Mapoly0055s0089,,MpOMT12,,
+Flavonoid,Lignin monomer,COMT,MpOMT13,Mp2g21090,Mapoly0040s0105,,MpOMT13,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,COMT,MpOMT18,Mp5g06840,Mapoly0681s0001,,MpOMT18,,
+Flavonoid,Lignin monomer,COMT,MpOMT19,Mp5g06850,Mapoly0136s0036,,MpOMT19,,
+Flavonoid,Lignin monomer,COMT,MpOMT22,Mp8g07600,Mapoly0013s0033,,MpOMT22,,"Zhao et al., JPR (2021)"
+Flavonoid,Lignin monomer,CCoAOMT,MpOMT1,Mp1g11530,Mapoly0014s0073,,MpOMT1,,
+Flavonoid,Lignin monomer,CCoAOMT,MpCOMT,Mp4g12630,Mapoly0138s0002,,MpCOMT,,
+Flavonoid,Lignin monomer,CCoAOMT,MpCCOAOMT,Mp6g03550,Mapoly0035s0134,,MpCCOAOMT,,
+Flavonoid,Lignin monomer,CCoAOMT,MpOMT21,Mp7g01830,Mapoly0099s0056,,MpOMT21,,
+PPO,,PPO,MpPPO1,Mp1g20430,Mapoly0001s0379,,,,
+PPO,,PPO,MpPPO2,Mp2g05780,Mapoly0021s0034,,,,
+PPO,,PPO,MpPPO3,Mp2g05790,Mapoly0021s0035,,,,
+PPO,,PPO,MpPPO4,Mp2g05810,Mapoly0021s0037,,,,
+PPO,,PPO,MpAUS|MpPPO5,Mp2g05850,Mapoly0021s0041,,,,
+PPO,,PPO,MpPPO6,Mp3g22270,Mapoly0024s0005,,,,
+PPO,,PPO,MpPPO7,Mp3g22280,Mapoly0024s0006,,,,
+PPO,,PPO,MpPPO8,Mp5g14430,Mapoly0032s0136,,,,
+PPO,,PPO,MpPPO9,Mp5g14440,Mapoly0032s0137,,,,
+PPO,,PPO,MpPPO10,Mp6g17930,Mapoly0038s0001,,,,
+PPO,,PPO,MpPPO11,Mp6g17920,Mapoly0038s0002,,,,
+PPO,,PPO,MpPPO12,-,Mapoly0038s0003,,,,
+PPO,,PPO,MpPPO13,-,Mapoly0038s0004,,,,
+PPO,,PPO,MpPPO14,Mp6g19030,Mapoly0038s0112,,,,
+PPO,,PPO,MpPPO15,Mp2g21360,Mapoly0040s0078,,,,
+PPO,,PPO,MpPPO16,-,Mapoly0071s0077,,,,
+PPO,,PPO,MpPPO17,Mp5g15320,Mapoly0071s0078,,,,
+PPO,,PPO,MpPPO18,-,Mapoly0073s0001,,,,
+PPO,,PPO,MpPPO19,Mp7g03140,Mapoly0074s0082,,,,
+PPO,,PPO,MpPPO20,Mp4g02130,Mapoly0080s0086,,,,
+PPO,,PPO,MpPPO21,-,Mapoly0084s0022,,,,
+PPO,,PPO,MpPPO22,Mp5g18380,Mapoly0084s0086,,,,
+PPO,,PPO,MpPPO23,Mp6g21120,Mapoly0091s0043,,,,
+PPO,,PPO,MpPPO24,Mp2g17720,Mapoly0094s0040,,,,
+PPO,,PPO,MpPPO25,Mp6g06370,Mapoly0097s0009,,,,
+PPO,,PPO,MpPPO26,Mp5g21700,Mapoly0106s0029,,,,
+PPO,,PPO,MpPPO27,Mp2g16760,Mapoly0109s0017,,,,
+PPO,,PPO,MpPPO28,Mp5g16490,Mapoly0117s0055,,,,
+PPO,,PPO,MpPPO29,-,Mapoly0117s0058,,,,
+PPO,,PPO,MpPPO30,Mp3g24080,Mapoly0121s0016,,,,
+PPO,,PPO,MpPPO70,Mp3g24070,Mapoly0121s0017,,,,
+PPO,,PPO,MpPPO31,Mp3g24060,Mapoly0121s0018,,,,
+PPO,,PPO,MpPPO32,Mp3g24050,Mapoly0121s0019,,,,
+PPO,,PPO,MpPPO33,Mp3g24040,Mapoly0121s0020,,,,
+PPO,,PPO,MpPPO34,Mp5g19430,Mapoly0134s0001,,,,
+PPO,,PPO,MpPPO35,-,Mapoly0134s0050,,,,
+PPO,,PPO,MpPPO36,Mp6g17800,Mapoly0145s0006,,,,
+PPO,,PPO,MpPPO37,Mp6g17780,Mapoly0145s0008,,,,
+PPO,,PPO,MpPPO38,Mp6g17770,Mapoly0145s0009,,,,
+PPO,,PPO,MpPPO39,Mp6g17750,Mapoly0145s0011,,,,
+PPO,,PPO,MpPPO40,Mp6g17740,Mapoly0145s0012,,,,
+PPO,,PPO,MpPPO41,Mp3g20620,Mapoly0149s0028,,,,
+PPO,,PPO,MpPPO42,Mp5g19980,Mapoly0206s0001,,,,
+PPO,,PPO,MpPPO43,Mp3g03250,Mapoly0212s0001,,,,
+PPO,,PPO,MpPPO44,Mp3g03240,Mapoly0212s0002,,,,
+PPO,,PPO,MpPPO45,Mp5g21450,Mapoly0220s0002,,,,
+PPO,,PPO,MpPPO46,-,Mapoly0237s0003,,,,
+PPO,,PPO,MpPPO47,Mp6g17880,Mapoly0237s0004,,,,
+PPO,,PPO,MpPPO48,Mp6g17890,Mapoly0237s0005,,,,
+PPO,,PPO,MpPPO49,Mp3g03310,Mapoly0244s0001,,,,
+PPO,,PPO,MpPPO50,Mp3g03330,Mapoly0244s0002,,,,
+PPO,,PPO,MpPPO51,Mp3g03340,Mapoly0244s0003,,,,
+PPO,,PPO,MpPPO52,Mp6g02130,Mapoly0248s0003,,,,
+PPO,,PPO,MpPPO53,Mp5g20020,Mapoly0266s0001,,,,
+PPO,,PPO,MpPPO54,Mp5g19990,Mapoly0266s0004,,,,
+PPO,,PPO,MpPPO55,Mp6g17910,Mapoly0391s0001,,,,
+PPO,,PPO,MpPPO56,Mp6g19020,Mapoly0595s0001,,,,
+PPO,,PPO,MpPPO57,-,Mapoly0654s0001,,,,
+PPO,,PPO,MpPPO58,Mp6g17860,Mapoly0967s0001,,,,
+PPO,,PPO,MpPPO59,Mp6g17940,Mapoly0994s0001,,,,
+PPO,,PPO,MpPPO60,-,Mapoly2340s0001,,,,
+PPO,,PPO,MpPPO61,Mp3g03280,Mapoly2776s0001,,,,
+PPO,,PPO,MpPPO62,Mp5g21460,Mapoly3313s0001,,,,
+PPO,,PPO,MpPPO63,Mp5g19820,Mapoly3320s0001,,,,
+PPO,,PPO,MpPPO64,MpVg00230,MapolyY_B0028,,,,
+StressTF,,MpBELL1        ,MpBELL1        ,Mp8g18310,,,,,
+StressTF,,MpLAXR,MpLAXR,Mp5g06970,,,,,
+StressTF,,MpERF15 ,MpERF15 ,Mp7g09350,,,,,
+StressTF,,MpHSF1,MpHSF1,Mp4g12230,,,,,
+StressTF,,MpWOX,MpWOX,Mp1g11660,,,,,
+StressTF,,MpAP2L1,MpAP2L1,Mp5g18910,,,,,
+StressTF,,MpARF1,MpARF1,Mp1g12750,,,,,
+StressTF,,MpBHLH12,MpBHLH12,Mp2g05070,,,,,
+StressTF,,MpGCAM1,MpGCAM1,Mp6g04830,,,,,
+StressTF,,MpLUX,MpLUX,Mp4g21220,,,,,
+StressTF,,MpWIP,MpWIP,Mp1g09500,,,,,
+StressTF,,MpBHLH24,MpBHLH24,Mp8g04130,,,,,
+StressTF,,MpABI3A,MpABI3A,Mp5g08310,,,,,
+StressTF,,MpDUO1/MpR2R3-MYB6,MpDUO1/MpR2R3-MYB6,Mp1g13010,,,,,
+StressTF,,MpERF7,MpERF7,Mp6g04880,,,,,
+StressTF,,MpMYBL3,MpMYBL3,Mp7g06280,,,,,
+StressTF,,MpWRKY8,MpWRKY8,Mp2g20960,,,,,
+StressTF,,MpWRKY2,MpWRKY2,Mp8g10640,,,,,
+StressTF,,MpTRIHELIX16,MpTRIHELIX16,Mp3g10500,,,,,
+StressTF,,MpERF14,MpERF14,Mp4g00380,,,,,
+StressTF,,MpC2H2-9,MpC2H2-9,Mp7g09260,,,,,
+StressTF,,MpWRKY7,MpWRKY7,Mp3g17660,,,,,
+StressTF,,MpBHLH38,MpBHLH38,Mp4g19650,,,,,
+StressTF,,Mp1R-MYB18,Mp1R-MYB18,Mp6g21430,,,,,
+StressTF,,MpE2F,MpE2F,Mp1g02890,,,,,
+StressTF,,MpWRKY13 ,MpWRKY13 ,Mp4g00180,,,,,
+StressTF,,MpRR-MYB2,MpRR-MYB2,Mp2g13020,,,,,
+StressTF,,MpTRIHELIX38,MpTRIHELIX38,Mp5g14820,,,,,
+StressTF,,MpGRAS4,MpGRAS4,Mp2g03850,,,,,
+StressTF,,MpASLBD8,MpASLBD8,Mp6g08290,,,,,
+StressTF,,MpERF17,MpERF17,Mp4g22280,,,,,
+StressTF,,MpTRIHELIX33,MpTRIHELIX33,Mp8g08100,,,,,
+StressTF,,MpNAC6,MpNAC6,Mp5g01530,,,,,
+StressTF,,MpC2H2-21,MpC2H2-21,Mp3g11570,,,,,
+StressTF,,MpBHLH15,MpBHLH15,Mp6g18480,,,,,
+StressTF,,MpCDF,MpCDF,Mp1g18540,,,,,
+StressTF,,MpERF18,MpERF18,Mp5g12480,,,,,
+StressTF,,MpBHLH47,MpBHLH47,Mp2g00500,,,,,
+StressTF,,MpIDDL2,MpIDDL2,Mp1g15660,,,,,
+StressTF,,MpB3-8,MpB3-8,Mp2g08260,,,,,
+StressTF,,MpBBX1,MpBBX1,Mp5g05940,,,,,
+StressTF,,MpR2R3-MYB21,MpR2R3-MYB21,Mp3g05910,,,,,
+StressTF,,MpBZR2,MpBZR2,Mp1g13260,,,,,
+StressTF,,MpKNOX1 ,MpKNOX1 ,Mp5g01600,,,,,
+StressTF,,MpGRAS7,MpGRAS7,Mp8g01770,,,,,
+StressTF,,MpBHLH48,MpBHLH48,Mp2g00510,,,,,
+StressTF,,MpERF10,MpERF10,Mp7g00860,,,,,
+StressTF,,MpC2H2-14,MpC2H2-14,Mp3g21490,,,,,
+StressTF,,MpGARP6,MpGARP6,Mp4g15170,,,,,
+StressTF,,MpNAC7,MpNAC7,Mp6g02620,,,,,
+StressTF,,MpCCAAT-NFYC1,MpCCAAT-NFYC1,Mp1g04550,,,,,
+StressTF,,MpTRIHELIX12,MpTRIHELIX12,Mp2g25660,,,,,
+StressTF,,MpBHLH43,MpBHLH43,Mpzg01410,,,,,
+StressTF,,MpBHLH33,MpBHLH33,Mp1g01110,,,,,
+StressTF,,MpR2R3-MYB2        ,MpR2R3-MYB2        ,Mp3g07510,,,,,
+StressTF,,MpBHLH37,MpBHLH37,Mp2g04200,,,,,
+StressTF,,MpGRAS9,MpGRAS9,Mp5g21990,,,,,
+StressTF,,MpBHLH45,MpBHLH45,Mp2g19970,,,,,
+StressTF,,MpABI5B,MpABI5B,Mp2g22820,,,,,
+StressTF,,MpGRAS12,MpGRAS12,Mp8g15500,,,,,
+StressTF,,MpGRF,MpGRF,Mp8g16900,,,,,
+StressTF,,MpAP2L3,MpAP2L3,Mp5g10280,,,,,
+StressTF,,MpBBX5,MpBBX5,Mp8g13470,,,,,
+StressTF,,MpBELL5,MpBELL5,Mp5g11060,,,,,
+StressTF,,MpC2H2-22,MpC2H2-22,Mp4g11030,,,,,
+StressTF,,MpR2R3-MYB20,MpR2R3-MYB20,Mp4g21790,,,,,
+StressTF,,MpBHLH5,MpBHLH5,Mp6g03670,,,,,
+StressTF,,MpBZIP9,MpBZIP9,Mp6g03920,,,,,
+StressTF,,MpASLBD2,MpASLBD2,Mp8g11560,,,,,
+StressTF,,MpBHLH21,MpBHLH21,Mp3g11900,,,,,
+StressTF,,MpTCP2,MpTCP2,Mp1g19590,,,,,
+StressTF,,MpGRAS3,MpGRAS3,Mp1g10440,,,,,
+StressTF,,MpBBX3,MpBBX3,Mp3g19670,,,,,
+StressTF,,MpCUCA,MpCUCA,Mp6g02590,,,,,
+StressTF,,MpR2R3-MYB18,MpR2R3-MYB18,Mp7g16300,,,,,
+StressTF,,Mp1R-MYB17,Mp1R-MYB17,Mp4g21300,,,,,
+StressTF,,MpAP2L1,MpAP2L1,Mp8g11450,,,,,
+StressTF,,MpBHLH32,MpBHLH32,Mp6g04650,,,,,
+StressTF,,MpBHLH4,MpBHLH4,Mp2g00930,,,,,
+StressTF,,MpLFY,MpLFY,Mp1g02860,,,,,
+StressTF,,MpR2R3-MYB5,MpR2R3-MYB5,Mp8g11870,,,,,
+StressTF,,Mp1R-MYB22,Mp1R-MYB22,Mp1g25720,,,,,
+StressTF,,MpSUP,MpSUP,Mp1g25140,,,,,
+StressTF,,MpCCAAT-NFYA,MpCCAAT-NFYA,Mp1g13740,,,,,
+StressTF,,MpMADS1,MpMADS1,Mp4g12490,,,,,
+StressTF,,MpR2R3-MYB14,MpR2R3-MYB14,Mp5g19050,,,,,
+StressTF,,MpC2H2-26,MpC2H2-26,Mp8g14220,,,,,
+StressTF,,MpBHLH2,MpBHLH2,Mp2g00890,,,,,
+StressTF,,MpSAWADEE,MpSAWADEE,Mp3g06860,,,,,
+StressTF,,MpTRIHELIX4,MpTRIHELIX4,Mp1g27060,,,,,
+StressTF,,MpWRKY9,MpWRKY9,Mp7g17200,,,,,
+StressTF,,MpWRKY3,MpWRKY3,Mp5g05560,,,,,
+StressTF,,MpERF9,MpERF9,Mp4g17430,,,,,
+StressTF,,MpIDDL3,MpIDDL3,Mp5g20530,,,,,
+StressTF,,MpTRIHELIX2,MpTRIHELIX2,Mp1g19730,,,,,
