@@ -34,8 +34,8 @@ list.file<-list.files(inDir,full.names = T)
   list.file<-paste0(inDir,unique(subset))
 }
 
-refs<-c("../00-OneKP/Extracted/OneKP-Nonseed-merged.fasta",
-        "../00-Genomes/Combined/AllGenomes-merged.fasta"
+refs<-c("../02-OneKP/Extracted/OneKP-Nonseed-merged.fasta",
+        "../01-Genomes/Combined/AllGenomes-merged.fasta"
         )
 fasta.ref<-data.table()
 for (f in refs){

@@ -1,0 +1,9 @@
+Lw_FITN-2088066-Treubia_lacunosa
+Lw_ILBQ-2044243-Conocephalum_conicum
+Lw_ILBQ-2046155-Conocephalum_conicum
+Lw_ILBQ-2045994-Conocephalum_conicum
+Lw_TXVB-2073450-Lunularia_cruciata
+Lw_TXVB-2075028-Lunularia_cruciata
+Lw_TXVB-2073378-Lunularia_cruciata
+# Hmnioides_DN132367_c0_g1_i7.p1
+# Tlacunosa_DN18257_c0_g1_i2.p1
