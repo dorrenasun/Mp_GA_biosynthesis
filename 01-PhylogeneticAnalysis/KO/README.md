@@ -21,7 +21,7 @@ Working pipeline (All scripts should be run from the 00-Codes folder):
 
 
 The files used in creating the phylogenetic tree of the manuscript is in the directory "ForPublication".
-	- KO-all_seqs.fasta: fasta file for candidate sequences of the final tree
-	- KO-LINSI.fasta: file for sequence alignment, before masking
-	- KO-LINSI-mask80.fasta: file for sequence alignment, masked & used in phylogenetic inference
-	- KO-tree.newick: file for the final phylogenetic tree, in a machine-readable form
+- KO-all_seqs.fasta: fasta file for candidate sequences of the final tree
+- KO-LINSI.fasta: file for sequence alignment, before masking
+- KO-LINSI-mask80.fasta: file for sequence alignment, masked & used in phylogenetic inference
+- KO-tree.newick: file for the final phylogenetic tree, in a machine-readable form
